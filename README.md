@@ -2,18 +2,17 @@
 
 An Autodesk Fusion 360 project to create a keyboard stand for my [Cortex Brand Sidekick Notepad](https://cottonbureau.com/p/XT9MRF/journal/sidekick-notepad#/16404980/black-paper-12x7). 
 
-It's very much a work in progress. 
-
 ## The Intent
 
 I love the Sidekick Notepad. I love the way that it lays out. 
 
-However, I had two issues:
+However, I had some issues:
 
 1. When I have it below my keyboard, my keyboard is too flat sometimes.
 2. I spend a lot of time either reviewing film for the soccer team I coach or on zoom meetings for my day job. That means I spend a lot of time just needing access to the spacebar and arrow keys.
+3. The gap between my keyboard and monitor stand is _barely_ enough for the keyboard and notepad together.
 
-I started playing around with the idea that maybe adding a slope to the keyboard would help with those two issues. Not necessarily for long typing sessions (_I move the notepad when I'm doing that anyways_), but great in a lot of other scenarios. 
+I started playing around with the idea that maybe adding a slope to the keyboard would help with those issues. Not necessarily for long typing sessions (_I move the notepad when I'm doing that anyways_), but great in a lot of other scenarios. 
 
 ## Design Goals
 
